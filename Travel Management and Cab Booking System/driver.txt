@@ -1,0 +1,211 @@
+
+D1001
+678qwd
+Abdullah Qureshi
+1462782682819
+Lyari Exp
+03141787912
+Karachi
+AC
+27
+0
+1196
+4.725
+1193
+24
+8 0 0
+20 0 0
+Daewoo
+Blue
+ABC-123
+10
+0
+D1002
+678haj
+Talha Qureshi
+1462829182819
+North Nazimabad
+03158219811
+Lahore
+Non-AC
+43
+0
+612
+5.4
+1905
+45
+8 0 0
+20 0 0
+Road Master
+Red
+XYZ-923
+14
+0
+D1003
+627ywt
+Jawed Qureshi
+1201819216271
+Water Pump
+03348210888
+Peshawar
+AC
+34
+0
+1242
+4.7
+2029
+57
+8 0 0
+20 0 0
+Jadoon
+Green
+MBS-892
+17
+2
+D6364
+ABC123
+Hassan Khan
+1234123456789
+North Nazimabad
+03312175406
+Quetta
+AC
+29
+0
+0
+0
+0
+0
+12 0 0
+20 0 0
+Jadoon
+SAF-234
+Red
+12
+2
+D9750
+ABC123
+Jawed Khan
+1234123456789
+Johar
+03312176666
+Karachi
+Non-AC
+34
+0
+0
+0
+0
+0
+8 0 0
+20 0 0
+Jadoon
+SAF-234
+Red
+12
+0
+D3576
+ABC123
+Hayyan Khan
+1234123456789
+Gulshan Iqbal
+03312175404
+Hyderabad
+AC
+23
+0
+0
+0
+0
+0
+12 0 0
+20 0 0
+Master Master
+ASD-453
+Yellow
+14
+0
+D2382
+ABC123
+Rayyan Khan
+1233123456789
+Malir Cantt
+03312176666
+Badin
+AC
+69
+0
+0
+0
+0
+0
+8 0 0
+20 0 0
+Trident
+WER-234
+Sky Green
+19
+2
+D4564
+ABC123
+Syed Faraz Ather
+4200167693451
+Johar
+03412332119
+Johar
+Non-AC
+19
+0
+0
+0
+0
+0
+8 0 0
+16 0 0
+Hiace
+bhf-233
+silver
+15
+0
+D1198
+ABC123
+Faisal Iqbal
+4231095673874
+North Nazimabad
+03323442243
+North Nazimabad
+Non-AC
+22
+0
+0
+0
+0
+0
+8 0 0
+16 0 0
+Hiace
+btt-233
+white
+15
+0
+D7252
+ABC123
+Muhammad bin shahid
+1234323454321
+Gulshan Iqbal
+03455443232
+Gulshan Iqbal
+Non-AC
+25
+0
+0
+0
+0
+0
+8 0 0
+12 0 0
+Yutong
+baa-211
+white
+25
+0

@@ -1,0 +1,121 @@
+
+U1001
+12qwe
+Bilal Ahmed
+1237929122378
+Johar
+03098178162
+Simba
+Non-AC
+19
+4
+7863
+4.5
+1860
+20
+0
+U1002
+12wer
+Jawed Ahmed
+1232237891021
+Gulshan Iqbal
+03090210882
+Billu
+Non-AC
+29
+4
+1200
+4.2
+860
+30
+0
+U1003
+67agj
+Ahsan Khan
+9021929122378
+Malir Cantt
+03028109262
+FDC
+AC
+23
+3
+1337
+4.5
+186
+10
+0
+U1004
+92sdf
+Kashif Jalal
+9877929122124
+Lyari Exp
+03068921891
+Ayesha Baig
+AC
+19
+1
+6377
+4.1
+1760
+40
+0
+U1005
+7nmb
+Muhammad Ali
+1678192018201
+Water Pump
+03042897111
+Farwa Rehan
+Any
+19
+1
+9337
+3.5
+1122
+19
+0
+U1006
+09qdf
+Ameesha Advani
+8192012910937
+North Nazimabad
+03052910382
+Peshawar
+Any
+54
+0
+5512
+4.75
+4566
+69
+0
+U4962
+billo
+Ahmed
+1234567891234
+Water Pump
+03111327659
+Civic
+AC
+19
+3
+10000
+0
+0
+0
+0
+U5351
+taash420
+Muhammad Bin Shahid
+1234567899876
+Water Pump
+03061521924
+karachi
+AC
+19
+0
+0
+0
+0
+0
+0
